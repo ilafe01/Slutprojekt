@@ -2,4 +2,5 @@
 
 ## ** Om projektet: **
 
-Det här projektet kommer handla om ämnet matematik där jag presenterar delen bråk
+Det här projektet kommer handla om kursen matematiken där bråk kommer vara huvuddelen.
+
