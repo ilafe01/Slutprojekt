@@ -19,7 +19,7 @@ fråga1A.addEventListener("click" , function () {
     resultat.innerHTML = "Rätt svar!";
     resultat.style.color = "green";
 
-    poäng++:
+    poäng++;
     
 });
 
@@ -49,7 +49,7 @@ fråga2B.addEventListener("click" , function () {
     resultat.innerHTML = "Rätt svar!";
     resultat.style.color = "green";
 
-    poäng++:
+    poäng++;
     
 });
 
@@ -72,7 +72,7 @@ fråga3B.addEventListener("click" , function () {
     resultat.innerHTML = "Rätt svar!";
     resultat.style.color = "green";
 
-    poäng++:
+    poäng++
     
 });
 
