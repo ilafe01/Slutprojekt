@@ -30,7 +30,7 @@ fråga1B.addEventListener("click" , function () {
 
 });
 
-fråga1A.addEventListener("click" , function () {
+fråga1C.addEventListener("click" , function () {
 
     resultat.innerHTML = "Fel svar!";
     resultat.style.color = "red";
